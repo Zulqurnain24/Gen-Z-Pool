@@ -1,0 +1,15 @@
+{
+    "name": "threejs-github-pages-deployment",
+    "version": "1.0.0",
+    "description": "This is a pool table game made in threeJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "deploy": "gh-pages -d dist"
+    },
+    "author": "Muhammad Zulqurnain",
+    "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^6.0.0"
+    }
+}

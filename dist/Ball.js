@@ -1,5 +1,5 @@
-import * as THREE from '../../libs/three137/three.module.js';
-import * as CANNON from '../../libs/cannon-es.js';
+import * as THREE from '../../../libs/three137/three.module.js';
+import * as CANNON from '../../../libs/cannon-es.js';
 
 class Ball{
     static RADIUS = 0.05715 / 2;
