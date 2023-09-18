@@ -1,4 +1,4 @@
-import * as THREE from '../../libs/three137/three.module.js';
+import * as THREE from 'https://unpkg.com/three@0.127.0/build/three.module.js';
 import * as CANNON from '../../libs/cannon-es.js';
 import { RGBELoader } from '../../libs/three137/RGBELoader.js';
 import { GLTFLoader } from '../../libs/three137/GLTFLoader.js';
